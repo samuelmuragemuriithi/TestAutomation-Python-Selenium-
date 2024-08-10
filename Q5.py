@@ -6,6 +6,8 @@ steps:
  -Logs in  using a predefined username and password.
  -Navigate to settings screen.
  Verifies that the user can update their profile information
+
+ 
 """
 
 from appium import webdriver
